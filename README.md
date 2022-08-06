@@ -1,1 +1,2 @@
 # SummerIntern
+print("hello world")
